@@ -1,0 +1,59 @@
+--- Stonereach to Holt completed after 3 days of transit. [Day 3] ---
+Good Rum was purchased for 2000, and after the multiplier of 1.4 the profit was 800
+Maintenance was 48 gold, for 8 guards across 1 wagons.
+752 was earned in total. Coffers currently hold 752 gold.
+
+--- Stonereach to Holt completed after 3 days of transit. [Day 6] ---
+Good Rum was purchased for 2000, and after the multiplier of 1.4 the profit was 800
+Maintenance was 48 gold, for 8 guards across 1 wagons.
+752 was earned in total. Coffers currently hold 1504 gold.
+
++++ New Waystone to Ivy Woof acquired. [Day 8] +++
+
++++ New Waystone to Holt acquired. [Day 8] +++
+
++++ New Waystone to Stone Reach acquired. [Day 8] +++
+
++++ New Waystone to Fulton acquired. [Day 8] +++
+
++++ New Waystone to Dragonsword Gate Room acquired. [Day 8] +++
+
++++ New Waystone to Ruins of Karkat acquired. [Day 8] +++
+
++++ New Waystone to Valenostrae Estates acquired. [Day 8] +++
+
++++ New Waystone to Collarstone Inn acquired. [Day 8] +++
+
++++ New Waystone to Talon acquired. [Day 8] +++
+
++++ New Waystone to Hostel du Freak acquired. [Day 8] +++
+
+--- Stonereach to Holt completed after 3 days of transit. [Day 9] ---
+Good Rum was purchased for 2000, and after the multiplier of 1.4 the profit was 800
+Maintenance was 48 gold, for 8 guards across 1 wagons.
+752 was earned in total. Coffers currently hold 2256 gold.
+
+--- Stonereach to Holt completed after 3 days of transit. [Day 12] ---
+Good Rum was purchased for 2000, and after the multiplier of 1.4 the profit was 800
+Maintenance was 48 gold, for 8 guards across 1 wagons.
+752 was earned in total. Coffers currently hold 3008 gold.
+
+--- Holt to Lowtower completed after 14 days of transit. [Day 14] ---
+Steel was purchased for 3000, and added to the Lowtower warehouse.
+Fabrics was purchased for 600, and added to the Lowtower warehouse.
+Maintenance was 448 gold, for 16 guards across 2 wagons.
+-4048 was earned in total. Coffers currently hold -1040 gold.
+
+--- Bress to Stone Reach completed after 14 days of transit. [Day 14] ---
+Wood was purchased for 2000, and after the multiplier of 1.6 the profit was 1200
+Magical Trinkets was purchased for 600, and after the multiplier of 1.4 the profit was 240
+Holt Steel was purchased for 2000, and after the multiplier of 1.4 the profit was 800
+Maintenance was 672 gold, for 24 guards across 3 wagons.
+1568 was earned in total. Coffers currently hold 528 gold.
+
+--- Stone Reach to Bress completed after 14 days of transit. [Day 14] ---
+Rum was purchased for 1000, and after the multiplier of 1.7 the profit was 700
+Beer was purchased for 1000, and after the multiplier of 1.7 the profit was 700
+Maintenance was 448 gold, for 16 guards across 2 wagons.
+952 was earned in total. Coffers currently hold 1480 gold.
+
